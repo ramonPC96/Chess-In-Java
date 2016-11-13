@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author Ramon
  */
-public class Ajedrez {
+public class Chess {
   
     
     public static void main(String[] args) {
