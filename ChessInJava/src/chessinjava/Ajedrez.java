@@ -11,14 +11,12 @@ import java.util.Scanner;
  *
  * @author Ramon
  */
-public class Chess {
+public class Ajedrez {
   
     
     public static void main(String[] args) {
-        // TODO code application logic here
-        opciones(menu());
-        
-        
+         opciones(menu());
+               
     }
     
     private static int menu(){
